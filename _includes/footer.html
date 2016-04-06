@@ -63,6 +63,16 @@
             </a>
           </li>
           {% endif %}
+          {% if site.author.quora and site.footer-links-active.quora %}
+          	<li>	
+          	<a href="https://www.quora.com/profile/{{ site.author.quora }}" title="Quora">
+          		<span class="fa-stack fa-lg">
+  				<span class="fa fa-square-o fa-stack-2x"></span>
+  				<span class="fa fa-fw fa-stack-1x"><strong>Q</strong></span>
+			</span>
+          	</a>
+          	</li>
+          {% endif %}
 		  {% if site.footer-links-active.rss %}
 		  <li>
 			<a href="{{ '/feed.xml' | prepend: site.baseurl }}" title="RSS">
