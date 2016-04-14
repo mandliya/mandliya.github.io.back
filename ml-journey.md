@@ -4,7 +4,7 @@ title: Ravi Mandliya
 subtitle: Software Engineer, Life Long Learner
 ---
 
-# My journey to become better at Machine Learning.
+## My journey to become better at Machine Learning.
 
 My experience with machine learning has been limited one. I took the course during my Master's degree at Clemson, however with my other subjects
 and Systems research work, I could not dedicate enough time on the subject. Recently, All the news and awesome projects happening around, It has rekindled my interest
