@@ -13,7 +13,7 @@ I will chronicle my details here as much as possible. I will start with basic ma
 Books I am reading, Research papers which fascinated me, APIs I have used etc etc. We will see how it goes. This is a side project from my work, and I am planning to dedicate 10-11 hours a week.
 
 ## Week 1 (April 11, 2016 - April 17, 2016) Tasks
-* Finding the best resources for learning Machine Learning. I believe Quora has answer [wiki](https://www.quora.com/How-do-I-learn-machine-learning-1) for this question, and backed by many experts in the field.
+* Finding the best resources for learning Machine Learning. I believe Quora has answer [wiki](https://www.quora.com/How-do-I-learn-machine-learning-1){:target="_blank"} for this question, and backed by many experts in the field.
 * Refreshing Linear Algebra - [Khan Academy Course](https://www.khanacademy.org/math/linear-algebra) - 50 % this week
 - Week 1 of Coursera course - [Machine Learning Foundations: A Case Study Approach](https://www.coursera.org/learn/ml-foundations) from University
   of Washington. I know I know.. Andrew Ng's Machine Learning [course](https://www.coursera.org/learn/machine-learning) is way better and highly recommended. However I have tried to do that course multiple times and was never able to finish it, for one reason or other.
