@@ -13,10 +13,10 @@ I will chronicle my details here as much as possible. I will start with basic ma
 Books I am reading, Research papers which fascinated me, APIs I have used etc etc. We will see how it goes. This is a side project from my work, and I am planning to dedicate 10-11 hours a week.
 
 ## Week 1 (April 11, 2016 - April 17, 2016) Tasks
-* Finding the best resources for learning Machine Learning. I believe Quora has answer [wiki](https://www.quora.com/How-do-I-learn-machine-learning-1) for this question, and backed by many experts in the field.
+* Finding the best resources for learning Machine Learning. I believe Quora has answer [wiki](https://www.quora.com/How-do-I-learn-machine-learning-1) for this question, and backed by many experts in the field. <p style='color:green'>DONE</p>
 * Refreshing Linear Algebra - [Khan Academy Course](https://www.khanacademy.org/math/linear-algebra) - 50 % this week
 - Week 1 of Coursera course - [Machine Learning Foundations: A Case Study Approach](https://www.coursera.org/learn/ml-foundations) from University
-  of Washington. I know I know.. Andrew Ng's Machine Learning [course](https://www.coursera.org/learn/machine-learning) is way better and highly recommended. However I have tried to do that course multiple times and was never able to finish it, for one reason or other.
+  of Washington. I know I know.. Andrew Ng's Machine Learning [course](https://www.coursera.org/learn/machine-learning) is way better and highly recommended. However I have tried to do that course multiple times and was never able to finish it, for one reason or other. <p style='color:green'>DONE</p>
   I will come back to it once, I have finished UofW course. Just for the fresh start.
 * Refreshing Concepts of Probability/Statistics - [Khan Academy](https://www.khanacademy.org/math/probability) again, however this is a big course, and I plan to finish 30% this week.
 * Research Paper to be read this week - [A Few Useful Things to Know about Machine Learning](http://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf)
