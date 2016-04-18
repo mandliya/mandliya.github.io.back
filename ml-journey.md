@@ -22,3 +22,8 @@ Books I am reading, Research papers which fascinated me, APIs I have used etc et
 
 ### Last Week's observations
 * Will  update 
+
+## Week 2 (April 18, 2016 - April 24, 2016) Tasks
+* Week 2 of [Machine Learning Foundations: A Case Study Approach](https://www.coursera.org/learn/ml-foundations), building a machine learning model to predict house price.
+* Refreshing concepts of Regression, Descriptive and Inferential Statistics using [Khan Academy](https://www.khanacademy.org/math/probability/regression)
+* Look at Google Developers [Machine Learning Recipes](https://www.youtube.com/watch?v=cKxRvEZd3Mw&sns=em)
