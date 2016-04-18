@@ -14,11 +14,11 @@ Books I am reading, Research papers which fascinated me, APIs I have used etc et
 
 ## Week 1 (April 11, 2016 - April 17, 2016) Tasks
 * Finding the best resources for learning Machine Learning. I believe Quora has answer [wiki](https://www.quora.com/How-do-I-learn-machine-learning-1) for this question, and backed by many experts in the field. <b style='color:green'>DONE</b>
-* Refreshing Linear Algebra - [Khan Academy Course](https://www.khanacademy.org/math/linear-algebra) - 50 % this week
+* Refreshing Linear Algebra - [Khan Academy Course](https://www.khanacademy.org/math/linear-algebra) - 50 % this week  <b style='color:green'>DONE</b>
 - Week 1 of Coursera course - [Machine Learning Foundations: A Case Study Approach](https://www.coursera.org/learn/ml-foundations) from University
   of Washington. I know I know.. Andrew Ng's Machine Learning [course](https://www.coursera.org/learn/machine-learning) is way better and highly recommended. However I have tried to do that course multiple times and was never able to finish it, for one reason or other. I will come back to it once, I have finished UofW course. Just for the fresh start, I am doing this first. <b style='color:green'>DONE</b>
 * Refreshing Concepts of Probability/Statistics - [Khan Academy](https://www.khanacademy.org/math/probability) again, however this is a big course, and I plan to finish 30% this week. <b style='color:green'>DONE</b>
-* Research Paper to be read this week - [A Few Useful Things to Know about Machine Learning](http://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf)
+* Research Paper to be read this week - [A Few Useful Things to Know about Machine Learning](http://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf) <b style='color:red'>NOT DONE, need more knowledge about various machine learning methods to make sense. I will review at later stage when I am done with coursera course.</b>
 
 ### Last Week's observations
 * Will  update 
