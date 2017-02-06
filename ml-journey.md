@@ -4,26 +4,6 @@ title: Ravi Mandliya
 subtitle: Software Engineer, Life Long Learner
 ---
 
-## My journey to become better at Machine Learning.
+## Lets do some machine learning.
 
-My experience with machine learning has been limited one. I took the course during my Master's degree at Clemson, however with my other subjects
-and Systems research work, I could not dedicate enough time on the subject. Recently, All the news and awesome projects happening around, It has rekindled my interest
-in the subject. We are witnessing something extraordinary right now in this field, and this could be turning point of human history. I really wish to be part of it. So I am starting my journey today from scratch.
-I will chronicle my details here as much as possible. I will start with basic maths (Linear Algebra, Calculas, Discrete) and will go deep in the field. I will update the courses I am taking online, Projects I am doing,
-Books I am reading, Research papers which fascinated me, APIs I have used etc etc. We will see how it goes. This is a side project from my work, and I am planning to dedicate 10-11 hours a week.
-
-## Week 1 (April 11, 2016 - April 17, 2016) Tasks
-* Finding the best resources for learning Machine Learning. I believe Quora has answer [wiki](https://www.quora.com/How-do-I-learn-machine-learning-1) for this question, and backed by many experts in the field. <b style='color:green'>DONE</b>
-* Refreshing Linear Algebra - [Khan Academy Course](https://www.khanacademy.org/math/linear-algebra) - 50 % this week  <b style='color:green'>DONE</b>
-- Week 1 of Coursera course - [Machine Learning Foundations: A Case Study Approach](https://www.coursera.org/learn/ml-foundations) from University
-  of Washington. I know I know.. Andrew Ng's Machine Learning [course](https://www.coursera.org/learn/machine-learning) is way better and highly recommended. However I have tried to do that course multiple times and was never able to finish it, for one reason or other. I will come back to it once, I have finished UofW course. Just for the fresh start, I am doing this first. <b style='color:green'>DONE</b>
-* Refreshing Concepts of Probability/Statistics - [Khan Academy](https://www.khanacademy.org/math/probability) again, however this is a big course, and I plan to finish 30% this week. <b style='color:green'>DONE</b>
-* Research Paper to be read this week - [A Few Useful Things to Know about Machine Learning](http://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf) <b style='color:red'>NOT DONE, need more knowledge about various machine learning methods to make sense. I will review at later stage when I am done with coursera course.</b>
-
-### Last Week's observations
-* Will  update 
-
-## Week 2 (April 18, 2016 - April 24, 2016) Tasks
-* Week 2 of [Machine Learning Foundations: A Case Study Approach](https://www.coursera.org/learn/ml-foundations), building a machine learning linear regression model to predict house price.
-* Refreshing concepts of Regression, Descriptive and Inferential Statistics using [Khan Academy](https://www.khanacademy.org/math/probability/regression)
-* Look at Google Developers [Machine Learning Recipes](https://www.youtube.com/watch?v=cKxRvEZd3Mw&sns=em)
+I am using Jupyter notebooks on Azure to create python notebooks. I update the notebooks as I learn. [Machine learning Jupyter notebook](https://notebooks.azure.com/library/mlprac)
