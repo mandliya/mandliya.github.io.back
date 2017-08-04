@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Projects
+title: Random Game Projects
 subtitle: Random and academic projects I have worked on.
 ---
 
