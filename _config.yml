@@ -6,7 +6,7 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
-url: "http://mandliya.github.io"
+url: "https://mandliya.github.io"
 baseurl: ""
 
 # Name of website
@@ -35,7 +35,7 @@ author:
   email: "ravi@mandliya.com"
   facebook: mandliya.ravi  # eg. daattali
   github: mandliya    # eg. daattali
-  twitter: abey_chal_na   # eg. daattali
+  twitter: ravi_msft   # eg. daattali
   linkedin: in/mandliya  # eg. "pub/dean-attali/8/946/143"
   quora: Ravi-Mandliya
   # stackoverflow: yourlink  # eg. "3943160/daattali"
